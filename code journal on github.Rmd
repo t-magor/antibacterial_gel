@@ -1,0 +1,24 @@
+---
+title: "Code Journal on GitHub"
+author: "Thomas Magor"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Deep Learning for Business
+
+Stuff about the Handwritten Digit Recognition project
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
