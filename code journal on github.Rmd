@@ -11,8 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Deep Learning for Business
 
-Stuff about the Handwritten Digit Recognition project
-
+Stuff about the Handwritten Digit Recognition project.
 ```{r cars}
 summary(cars)
 ```
